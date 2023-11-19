@@ -24,8 +24,8 @@ go run echo.go hello world
 
 ## Tasks
 
-[ x ] Modify the echo program to also print os.Args[0], the name of the command that invoked it.
+[x] Modify the echo program to also print os.Args[0], the name of the command that invoked it.
 
-[] Modify the echo program to print the index and value of each of its arguments, one per line.
+[x] Modify the echo program to print the index and value of each of its arguments, one per line.
 
 [] Experiment to measure the difference in running time between our potentially inefficient versions and the one that uses strings.Join.
