@@ -28,4 +28,4 @@ go run echo.go hello world
 
 [x] Modify the echo program to print the index and value of each of its arguments, one per line.
 
-[] Experiment to measure the difference in running time between our potentially inefficient versions and the one that uses strings.Join.
+[x] Experiment to measure the difference in running time between our potentially inefficient versions and the one that uses strings.Join.
